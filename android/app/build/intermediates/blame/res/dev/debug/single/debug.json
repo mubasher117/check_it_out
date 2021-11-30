@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/drawable_splash.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/drawable/splash.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/dev/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.ulemapakistan",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 12,
+        "versionName": "2.0.8",
+        "outputFile": "app-dev-release.apk",
+        "fullName": "devRelease",
+        "baseName": "dev-release",
+        "dirName": ""
+      },
+      "path": "resources-devRelease.ap_",
+      "properties": {
+        "packageId": "com.ulemapakistan",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

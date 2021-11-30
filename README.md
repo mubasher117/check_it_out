@@ -1,4 +1,12 @@
-# Check It Out
+# Suggesions
+- components that are reusable , put them in compoents folder
+- components that are are not reusable , put them in parent folder e.g:
 
-The actual repository is a private one due to client's concern. But some part of it is made public just for the sample. 
-It is a cross platform react native app. An eCommerce platform for buying and selling products with the videos as previews.
+```
+  --- List/
+  ----- index.js
+  ----- styles.js
+  ----- ListItem/
+  ------- index.js
+  ------- styles.js
+```

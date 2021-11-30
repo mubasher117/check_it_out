@@ -1,0 +1,7 @@
+#Wed Nov 17 14:40:59 PKT 2021
+base.0=/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/dex/prodRelease/mergeDexProdRelease/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/build/intermediates/dex/prodRelease/mergeDexProdRelease/classes2.dex

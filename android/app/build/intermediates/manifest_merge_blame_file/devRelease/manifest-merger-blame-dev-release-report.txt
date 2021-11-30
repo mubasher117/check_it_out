@@ -1,0 +1,413 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ulemapakistan"
+4    android:versionCode="12"
+5    android:versionName="2.0.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:2:1-4:3
+11-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:3:4-58
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:5:3-65
+12-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:5:20-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:6:3-78
+13-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:6:20-75
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:7:3-79
+14-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:7:20-76
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:8:3-63
+15-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:8:20-60
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:9:3-68
+16-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:9:20-66
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+17-->[:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+18-->[:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+19
+20    <uses-feature
+20-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.camera"
+21-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:12:9-47
+22        android:required="false" />
+22-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.camera.autofocus"
+24-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+25        android:required="false" />
+25-->[:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+26
+27    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+27-->[:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+27-->[:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+28
+29    <queries>
+29-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:26:5-34:15
+30        <intent>
+30-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:27:9-33:18
+31            <action android:name="android.intent.action.VIEW" />
+31-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:13-65
+31-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:21-62
+32
+33            <category android:name="android.intent.category.BROWSABLE" />
+33-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:13-74
+33-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:23-71
+34
+35            <data android:scheme="https" />
+35-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:13-71
+35-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:19-68
+36        </intent>
+37    </queries>
+38
+39    <uses-feature
+39-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+40        android:glEsVersion="0x00020000"
+40-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+41        android:required="true" />
+41-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+42
+43    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+43-->[com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+43-->[com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+44
+45    <application
+45-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:3-43:17
+46        android:name="com.ulemapakistan.MainApplication"
+46-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:16-47
+47        android:allowBackup="false"
+47-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:156-183
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:24:18-86
+49        android:icon="@mipmap/ic_launcher"
+49-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:81-115
+50        android:label="@string/app_name"
+50-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:48-80
+51        android:roundIcon="@mipmap/ic_launcher"
+51-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:116-155
+52        android:supportsRtl="true"
+52-->[com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:28:18-44
+53        android:theme="@style/AppTheme" >
+53-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:184-215
+54        <activity
+54-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:5-19:16
+55            android:name="com.ulemapakistan.MainActivity"
+55-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:15-43
+56            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+56-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:77-154
+57            android:label="@string/app_name"
+57-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:44-76
+58            android:launchMode="singleTask"
+58-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:155-186
+59            android:windowSoftInputMode="adjustResize" >
+59-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:187-229
+60            <intent-filter>
+60-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:12:7-17:23
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:13:9-61
+61-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:13:17-58
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:14:9-69
+63-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:14:19-66
+64
+65                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+65-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:15:9-74
+65-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:15:17-71
+66            </intent-filter>
+67        </activity>
+68        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+68-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:20:5-82
+68-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:20:15-79
+69
+70        <meta-data
+70-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:5-103
+71            android:name="com.facebook.sdk.ApplicationId"
+71-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:16-61
+72            android:value="@string/facebook_app_id" />
+72-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:62-101
+73        <meta-data
+73-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:5-107
+74            android:name="com.facebook.sdk.ClientToken"
+74-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:16-59
+75            android:value="@string/facebook_client_token" />
+75-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:60-105
+76
+77        <activity
+77-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:27:5-30:44
+78            android:name="com.facebook.FacebookActivity"
+78-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:27:15-59
+79            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+79-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:28:9-109
+80            android:label="@string/app_name"
+80-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:30:9-41
+81            android:theme="@style/com_facebook_activity_theme" />
+81-->[com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:33:13-63
+82        <activity
+82-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:31:5-40:16
+83            android:name="com.facebook.CustomTabActivity"
+83-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:32:9-54
+84            android:exported="true" >
+84-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:33:9-32
+85            <intent-filter>
+85-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:34:9-39:25
+86                <action android:name="android.intent.action.VIEW" />
+86-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:13-65
+86-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:21-62
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:13-72
+88-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:23-69
+89                <category android:name="android.intent.category.BROWSABLE" />
+89-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:13-74
+89-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:23-71
+90
+91                <data android:scheme="@string/fb_login_protocol_scheme" />
+91-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:13-71
+91-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:19-68
+92            </intent-filter>
+93            <intent-filter>
+93-->[com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:39:13-48:29
+94                <action android:name="android.intent.action.VIEW" />
+94-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:13-65
+94-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:21-62
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:13-72
+96-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:23-69
+97                <category android:name="android.intent.category.BROWSABLE" />
+97-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:13-74
+97-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:23-71
+98
+99                <data
+99-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:13-71
+100                    android:host="cct.com.ulemapakistan"
+101                    android:scheme="fbconnect" />
+101-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:19-68
+102            </intent-filter>
+103        </activity>
+104
+105        <provider
+105-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+106            android:name="com.imagepicker.ImagePickerProvider"
+106-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-63
+107            android:authorities="com.ulemapakistan.imagepickerprovider"
+107-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-71
+108            android:exported="false"
+108-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+109            android:grantUriPermissions="true" >
+109-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+110            <meta-data
+110-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:70
+111                android:name="android.support.FILE_PROVIDER_PATHS"
+111-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+112                android:resource="@xml/imagepicker_provider_paths" />
+112-->[:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+113        </provider>
+114
+115        <activity android:name="com.facebook.CustomTabMainActivity" />
+115-->[com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:9-71
+115-->[com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:19-68
+116        <activity
+116-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:37:9-41:75
+117            android:name="net.openid.appauth.AuthorizationManagementActivity"
+117-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:38:13-78
+118            android:exported="false"
+118-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:39:13-37
+119            android:launchMode="singleTask"
+119-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:40:13-44
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+120-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:41:13-72
+121        <activity
+121-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:42:9-53:20
+122            android:name="net.openid.appauth.RedirectUriReceiverActivity"
+122-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:43:13-74
+123            android:exported="true" >
+123-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:44:13-36
+124            <intent-filter>
+124-->[net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:45:13-52:29
+125                <action android:name="android.intent.action.VIEW" />
+125-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:13-65
+125-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:21-62
+126
+127                <category android:name="android.intent.category.DEFAULT" />
+127-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:13-72
+127-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:23-69
+128                <category android:name="android.intent.category.BROWSABLE" />
+128-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:13-74
+128-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:23-71
+129
+130                <data android:scheme="com.ulemapakistan" />
+130-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:13-71
+130-->/Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:19-68
+131            </intent-filter>
+132        </activity>
+133        <activity
+133-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+134            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+134-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+135            android:excludeFromRecents="true"
+135-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+136            android:exported="false"
+136-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+137            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+137-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+138        <!--
+139            Service handling Google Sign-In user revocation. For apps that do not integrate with
+140            Google Sign-In, this service will never be started.
+141        -->
+142        <service
+142-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+143            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+143-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+144            android:exported="true"
+144-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+145            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Needs to be explicitly declared on P+ -->
+145-->[com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+146        <uses-library
+146-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+147            android:name="org.apache.http.legacy"
+147-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+148            android:required="false" />
+148-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+149
+150        <service
+150-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:9:9-15:19
+151            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+151-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:10:13-91
+152            android:directBootAware="true"
+152-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+153            android:exported="false" >
+153-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:11:13-37
+154            <meta-data
+154-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+155                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
+155-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+157            <meta-data
+157-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+158                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+158-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+160            <meta-data
+160-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+161                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+161-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+163            <meta-data
+163-->[com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+164                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+164-->[com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+166            <meta-data
+166-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+167                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+167-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+169        </service>
+170
+171        <provider
+171-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+172            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+172-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+173            android:authorities="com.ulemapakistan.mlkitinitprovider"
+173-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+174            android:exported="false"
+174-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+175            android:initOrder="99" />
+175-->[com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+176
+177        <activity
+177-->[com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+178            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+178-->[com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+179            android:exported="false"
+179-->[com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+180            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+180-->[com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+181
+182        <meta-data
+182-->[com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+183            android:name="com.google.android.gms.version"
+183-->[com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+184            android:value="@integer/google_play_services_version" />
+184-->[com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+185        <!--
+186         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+187         with the application context. This config is merged in with the host app's manifest,
+188         but there can only be one provider with the same authority activated at any given
+189         point; so if the end user has two or more different apps that use Facebook SDK, only the
+190         first one will be able to use the provider. To work around this problem, we use the
+191         following placeholder in the authority to identify each host application as if it was
+192         a completely different provider.
+193        -->
+194        <provider
+194-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:39:9-42:40
+195            android:name="com.facebook.internal.FacebookInitProvider"
+195-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:40:13-70
+196            android:authorities="com.ulemapakistan.FacebookInitProvider"
+196-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:41:13-72
+197            android:exported="false" />
+197-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:42:13-37
+198
+199        <receiver
+199-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:44:9-50:20
+200            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+200-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:45:13-86
+201            android:exported="false" >
+201-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:46:13-37
+202            <intent-filter>
+202-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:47:13-49:29
+203                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+203-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:17-95
+203-->[com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:25-92
+204            </intent-filter>
+205        </receiver>
+206
+207        <service
+207-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+208            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+208-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+209            android:exported="false" >
+209-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+210            <meta-data
+210-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+211                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+211-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+212                android:value="cct" />
+212-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+213        </service>
+214        <service
+214-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+215            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+215-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+216            android:exported="false"
+216-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+217            android:permission="android.permission.BIND_JOB_SERVICE" >
+217-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+218        </service>
+219
+220        <receiver
+220-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+221            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+221-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+222            android:exported="false" />
+222-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+223    </application>
+224
+225</manifest>

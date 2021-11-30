@@ -1,0 +1,822 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+MERGED from [:react-native-fbsdk-next] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-async-storage_async-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_clipboard] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_geolocation] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_google-signin] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_slider] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-app-auth] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-config] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-encrypted-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-encrypted-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-fetch-blob] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-fs] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-localization] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-orientation-locker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-pager-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e70d6550001493ec73a66fddbcfd3258/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/16a7f26513ddd67a523e5e70f094d443/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63dca85aa477b5c361f7f6497e4eb25c/jetified-facebook-login-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-gamingservices:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c78afab55ab1cb7f357dd289b77b636b/jetified-facebook-gamingservices-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b7022ebc77d41baeaa049cb7959e3b1b/jetified-facebook-share-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/965cbb51686a56a2dee5aa28c85d50e6/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/984741ba6b510ff386b493293c4e2846/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/70e4580aa649ddcb33a39e77f15c8942/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774f53b09f9629a68d48b7c3779ecbc8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a450a73a20d60cf0541e08302baab368/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-text-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-text-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:15:1-56:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0669322874bbdd437a3e0e5165547daf/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7b186c1fc51702dad4ae4cd942314d25/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1f6fd317819f50f20638ef155ed23d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/359148d345ac1b06e632571cb90a1548/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f131d0adc7e8ac637ba3b3813a5a5c47/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0b771ea8157d391da4776b6b0c4786ea/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3bc555a9522c6d034c171336cdf71dd1/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89ff0a30ac285dc568451e08cdf07a3d/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/19ff3ca729d2e1537519ffeb4ae6fb71/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddea95b0d3862f151499a06dd6b740e4/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/398fef0784ef7042344bb612b2fb9e90/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba1ce2b172ec419e9504e7c68bc38ee8/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2138482e41e4788c3182027c7307e0f1/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-applinks:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a30bda518ac63bdec752f133ee71f42a/jetified-facebook-applinks-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c43c17c4e3ae6284dc2baf2e7aa2694f/jetified-facebook-messenger-9.0.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e3c2c21942285499f196222273aedce3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c7cd7f74f91f5c6265c2f8f50c192e69/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/440fbde51e89b5f518ae71fc78af1f9f/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/753ceadc6da82687aa8ecfebd66d1d49/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bc48cf1369bbb0edc6a98382d2b82ea4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7d6d14e51e2d5ff0d59f530e3946221e/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02c69e4c7f835dea906554edf90c5189/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/08dc2d5db0e1984f317ce26b46339741/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a98ab9451fdf144c04e74aea2fc1a6d6/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6403474f8fdae50e828237f144e1067f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/cda57949f54f368a986164f00310d3a0/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8e7391c395dd7cdc9361926c3994e372/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b01482078377208d12bddb7526a6ca06/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba9472ab5f406a32c431f8255933c586/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8638cbd026b69285157522e8cb724877/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/540d45107a84b2d7be31c796006ab084/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2b47200db59fd638462bb5770a59fc6d/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/20b98416fae6813b06c6115fa65377be/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b4f0a4bc6f2a0d08538c10f1642403bc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/57274e68ba023c2403def168c2da17c5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f74e236bb7cd16a5ce6419b234182008/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d492d62c4dc51b8209739a4aedd9dbcf/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/87ee9f39c1d1517f82bdd4a8787eb06d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7f7732e76fb7c758994f480a77601084/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1559dbcd9ca57b3b19bcc0201c522d21/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffd4807a19ff7076e655604124a52f24/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1868ade9ec3549550bca1aa2d6f17831/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2a33af46bcc085b0929192cb17cc7834/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d64027c4a6412e28d3bb74f6acf476b4/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d128c5537891a04725861bb747e55ed9/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f83ba82537c0cec5e0fe891c47b68594/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a224137ff166ec2298666a8419fc8cac/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/070a1e2e07c61dc4f414c19b1698ebec/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2c7ae0a14f224761aea90313933926ef/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c0bc83e46cfb42e6243f4d9c932b0a47/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3fab3f886ec3941a740d1cda952fa1ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/45ed72970ccb23aaf042228fa0a88719/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/9dcb05af96516084bf315848c7fccdc7/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/66e9463f48556292c91c1eb56362dde0/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eacb51464cee0ed97b18426ba55d1655/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:70-97
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:1-44:12
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:2:1-4:3
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:3:4-58
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:5:3-65
+MERGED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:5:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:6:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:7:3-79
+MERGED from [:react-native-fs] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:7:20-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:8:3-63
+MERGED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:8:20-60
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:9:3-68
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:9:20-66
+application
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:3-43:17
+MERGED from [:react-native-community_datetimepicker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-fetch-blob] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e70d6550001493ec73a66fddbcfd3258/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e70d6550001493ec73a66fddbcfd3258/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/16a7f26513ddd67a523e5e70f094d443/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/16a7f26513ddd67a523e5e70f094d443/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63dca85aa477b5c361f7f6497e4eb25c/jetified-facebook-login-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63dca85aa477b5c361f7f6497e4eb25c/jetified-facebook-login-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c78afab55ab1cb7f357dd289b77b636b/jetified-facebook-gamingservices-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c78afab55ab1cb7f357dd289b77b636b/jetified-facebook-gamingservices-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b7022ebc77d41baeaa049cb7959e3b1b/jetified-facebook-share-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b7022ebc77d41baeaa049cb7959e3b1b/jetified-facebook-share-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:29:5-50:19
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:36:5-54:19
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:36:5-54:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0b771ea8157d391da4776b6b0c4786ea/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0b771ea8157d391da4776b6b0c4786ea/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/19ff3ca729d2e1537519ffeb4ae6fb71/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/19ff3ca729d2e1537519ffeb4ae6fb71/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddea95b0d3862f151499a06dd6b740e4/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddea95b0d3862f151499a06dd6b740e4/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-applinks:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a30bda518ac63bdec752f133ee71f42a/jetified-facebook-applinks-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a30bda518ac63bdec752f133ee71f42a/jetified-facebook-applinks-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c43c17c4e3ae6284dc2baf2e7aa2694f/jetified-facebook-messenger-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c43c17c4e3ae6284dc2baf2e7aa2694f/jetified-facebook-messenger-9.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8638cbd026b69285157522e8cb724877/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8638cbd026b69285157522e8cb724877/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/45ed72970ccb23aaf042228fa0a88719/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/45ed72970ccb23aaf042228fa0a88719/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eacb51464cee0ed97b18426ba55d1655/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eacb51464cee0ed97b18426ba55d1655/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:48-80
+	android:roundIcon
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:116-155
+	android:icon
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:81-115
+	android:allowBackup
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:156-183
+	android:theme
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:184-215
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:10:16-47
+activity#com.ulemapakistan.MainActivity
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:5-19:16
+	android:label
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:44-76
+	android:launchMode
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:155-186
+	android:windowSoftInputMode
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:187-229
+	android:configChanges
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:77-154
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:11:15-43
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:12:7-17:23
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:13:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:14:19-66
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:15:9-74
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:15:17-71
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:20:5-82
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:20:15-79
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:5-103
+	android:value
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:62-101
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:21:16-61
+meta-data#com.facebook.sdk.ClientToken
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:5-107
+	android:value
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:60-105
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:22:16-59
+activity#com.facebook.FacebookActivity
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:27:5-30:44
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:30:9-33:66
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:30:9-33:66
+	android:label
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:30:9-41
+	android:configChanges
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:28:9-109
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:27:15-59
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:31:5-40:16
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:35:9-49:20
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:32:9-54
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:34:9-39:25
+action#android.intent.action.VIEW
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:13-65
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:35:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:36:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:37:23-71
+data
+ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:13-71
+	android:scheme
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml:38:19-68
+uses-sdk
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-fbsdk-next] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk-next] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-async-storage_async-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_google-signin] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_google-signin] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-app-auth] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-app-auth] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-encrypted-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-encrypted-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-encrypted-storage] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-encrypted-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-fetch-blob] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-orientation-locker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation-locker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pager-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pager-view] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-pager-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e70d6550001493ec73a66fddbcfd3258/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e70d6550001493ec73a66fddbcfd3258/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/16a7f26513ddd67a523e5e70f094d443/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/16a7f26513ddd67a523e5e70f094d443/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ca27c45c601cb60821d11adec150e08e/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63dca85aa477b5c361f7f6497e4eb25c/jetified-facebook-login-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63dca85aa477b5c361f7f6497e4eb25c/jetified-facebook-login-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c78afab55ab1cb7f357dd289b77b636b/jetified-facebook-gamingservices-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c78afab55ab1cb7f357dd289b77b636b/jetified-facebook-gamingservices-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b7022ebc77d41baeaa049cb7959e3b1b/jetified-facebook-share-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b7022ebc77d41baeaa049cb7959e3b1b/jetified-facebook-share-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/965cbb51686a56a2dee5aa28c85d50e6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/965cbb51686a56a2dee5aa28c85d50e6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/984741ba6b510ff386b493293c4e2846/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/984741ba6b510ff386b493293c4e2846/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/70e4580aa649ddcb33a39e77f15c8942/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/70e4580aa649ddcb33a39e77f15c8942/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774f53b09f9629a68d48b7c3779ecbc8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/774f53b09f9629a68d48b7c3779ecbc8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a450a73a20d60cf0541e08302baab368/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a450a73a20d60cf0541e08302baab368/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-text-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-text-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-text-gradient] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-text-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0669322874bbdd437a3e0e5165547daf/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0669322874bbdd437a3e0e5165547daf/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7b186c1fc51702dad4ae4cd942314d25/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7b186c1fc51702dad4ae4cd942314d25/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1f6fd317819f50f20638ef155ed23d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1f6fd317819f50f20638ef155ed23d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/359148d345ac1b06e632571cb90a1548/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/359148d345ac1b06e632571cb90a1548/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f131d0adc7e8ac637ba3b3813a5a5c47/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f131d0adc7e8ac637ba3b3813a5a5c47/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0b771ea8157d391da4776b6b0c4786ea/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0b771ea8157d391da4776b6b0c4786ea/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3bc555a9522c6d034c171336cdf71dd1/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3bc555a9522c6d034c171336cdf71dd1/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89ff0a30ac285dc568451e08cdf07a3d/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89ff0a30ac285dc568451e08cdf07a3d/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/19ff3ca729d2e1537519ffeb4ae6fb71/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/19ff3ca729d2e1537519ffeb4ae6fb71/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddea95b0d3862f151499a06dd6b740e4/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddea95b0d3862f151499a06dd6b740e4/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/398fef0784ef7042344bb612b2fb9e90/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/398fef0784ef7042344bb612b2fb9e90/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba1ce2b172ec419e9504e7c68bc38ee8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba1ce2b172ec419e9504e7c68bc38ee8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2138482e41e4788c3182027c7307e0f1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2138482e41e4788c3182027c7307e0f1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-applinks:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a30bda518ac63bdec752f133ee71f42a/jetified-facebook-applinks-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a30bda518ac63bdec752f133ee71f42a/jetified-facebook-applinks-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c43c17c4e3ae6284dc2baf2e7aa2694f/jetified-facebook-messenger-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c43c17c4e3ae6284dc2baf2e7aa2694f/jetified-facebook-messenger-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e3c2c21942285499f196222273aedce3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e3c2c21942285499f196222273aedce3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c7cd7f74f91f5c6265c2f8f50c192e69/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c7cd7f74f91f5c6265c2f8f50c192e69/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/440fbde51e89b5f518ae71fc78af1f9f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/440fbde51e89b5f518ae71fc78af1f9f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/753ceadc6da82687aa8ecfebd66d1d49/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/753ceadc6da82687aa8ecfebd66d1d49/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bc48cf1369bbb0edc6a98382d2b82ea4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/bc48cf1369bbb0edc6a98382d2b82ea4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7d6d14e51e2d5ff0d59f530e3946221e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7d6d14e51e2d5ff0d59f530e3946221e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02c69e4c7f835dea906554edf90c5189/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/02c69e4c7f835dea906554edf90c5189/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/08dc2d5db0e1984f317ce26b46339741/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/08dc2d5db0e1984f317ce26b46339741/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a98ab9451fdf144c04e74aea2fc1a6d6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a98ab9451fdf144c04e74aea2fc1a6d6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6403474f8fdae50e828237f144e1067f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6403474f8fdae50e828237f144e1067f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/cda57949f54f368a986164f00310d3a0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/cda57949f54f368a986164f00310d3a0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e733d133fa53fe99b6bd2bc5cfc3d490/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8e7391c395dd7cdc9361926c3994e372/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8e7391c395dd7cdc9361926c3994e372/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b01482078377208d12bddb7526a6ca06/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b01482078377208d12bddb7526a6ca06/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba9472ab5f406a32c431f8255933c586/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ba9472ab5f406a32c431f8255933c586/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8638cbd026b69285157522e8cb724877/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/8638cbd026b69285157522e8cb724877/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/540d45107a84b2d7be31c796006ab084/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/540d45107a84b2d7be31c796006ab084/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2b47200db59fd638462bb5770a59fc6d/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2b47200db59fd638462bb5770a59fc6d/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/20b98416fae6813b06c6115fa65377be/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/20b98416fae6813b06c6115fa65377be/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b4f0a4bc6f2a0d08538c10f1642403bc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/b4f0a4bc6f2a0d08538c10f1642403bc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/57274e68ba023c2403def168c2da17c5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/57274e68ba023c2403def168c2da17c5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f74e236bb7cd16a5ce6419b234182008/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f74e236bb7cd16a5ce6419b234182008/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d492d62c4dc51b8209739a4aedd9dbcf/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d492d62c4dc51b8209739a4aedd9dbcf/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/87ee9f39c1d1517f82bdd4a8787eb06d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/87ee9f39c1d1517f82bdd4a8787eb06d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7f7732e76fb7c758994f480a77601084/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/7f7732e76fb7c758994f480a77601084/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1559dbcd9ca57b3b19bcc0201c522d21/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1559dbcd9ca57b3b19bcc0201c522d21/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffd4807a19ff7076e655604124a52f24/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffd4807a19ff7076e655604124a52f24/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1868ade9ec3549550bca1aa2d6f17831/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/1868ade9ec3549550bca1aa2d6f17831/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2a33af46bcc085b0929192cb17cc7834/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2a33af46bcc085b0929192cb17cc7834/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d64027c4a6412e28d3bb74f6acf476b4/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d64027c4a6412e28d3bb74f6acf476b4/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d128c5537891a04725861bb747e55ed9/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d128c5537891a04725861bb747e55ed9/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f83ba82537c0cec5e0fe891c47b68594/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f83ba82537c0cec5e0fe891c47b68594/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a224137ff166ec2298666a8419fc8cac/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a224137ff166ec2298666a8419fc8cac/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/070a1e2e07c61dc4f414c19b1698ebec/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/070a1e2e07c61dc4f414c19b1698ebec/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2c7ae0a14f224761aea90313933926ef/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/2c7ae0a14f224761aea90313933926ef/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c0bc83e46cfb42e6243f4d9c932b0a47/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c0bc83e46cfb42e6243f4d9c932b0a47/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3fab3f886ec3941a740d1cda952fa1ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3fab3f886ec3941a740d1cda952fa1ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/45ed72970ccb23aaf042228fa0a88719/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/45ed72970ccb23aaf042228fa0a88719/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/9dcb05af96516084bf315848c7fccdc7/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/macbook/.gradle/caches/transforms-2/files-2.1/9dcb05af96516084bf315848c7fccdc7/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/66e9463f48556292c91c1eb56362dde0/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/66e9463f48556292c91c1eb56362dde0/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eacb51464cee0ed97b18426ba55d1655/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eacb51464cee0ed97b18426ba55d1655/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/macbook/Documents/src/work/react_native/checkItOut-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:19-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.ulemapakistan+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6fafe1206f80a8852d3d115660c26f52/jetified-facebook-common-9.0.0/AndroidManifest.xml:39:13-48:29
+queries
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:26:5-34:15
+intent
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:27:9-33:18
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:37:9-41:75
+	android:launchMode
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:40:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:38:13-78
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:42:9-53:20
+	android:exported
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:43:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:45:13-52:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.ulemapakistan
+ADDED from [net.openid:appauth:0.8.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909bf36a8ed50dd7596d458d92a4dcc1/jetified-appauth-0.8.1/AndroidManifest.xml:45:13-52:29
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/43fd59665badda79efc87543f54911d7/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/abffceacf933a22fcf9ae7d32cedbe71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/749ec575543e0db53971a1323b5cd7d6/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/909c6d2dd565b1cc968af5eca1a37dbd/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/69071f565fb38ba3966fea67d198eb40/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c2304a961925dbaf0c6fea1110e11c62/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/58a421aed00954f86e890a42af3d8d50/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/718ae5da7b3812b52d1bcdb64bdddda7/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebbb77b1a7a1109076c326f8073276e2/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdf6b3ba6cbc8c006a2faf8b8944b258/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:9.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6195c1d69ee8514421b1e0973871317c/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ebea1c6d10d8b0dbf219d01b2660ba8c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3fa6ae7328dce93ebec8d4677b1a037/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c1dacf1673d4fb10e80ec0c0dda883b8/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
